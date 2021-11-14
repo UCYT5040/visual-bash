@@ -1,2 +1,2 @@
-# visual-bash
+# Visual Bash
 Visualize bash commands.
